@@ -32,6 +32,8 @@
     justify-content: center;
     align-items: center;
     margin: 20px;
+    height: 370px;
+    width: 200px;
   }
   .price{
     color: green;
@@ -56,6 +58,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        height: 400px;
+        width: 200px;
 }
 .price2{
     color: green;
@@ -81,6 +85,8 @@
     justify-content: center;
     align-items: center;
     margin: 20px;
+    height: 370px;
+    width: 200px;
 }
 .price3{
 color: green;
@@ -98,4 +104,56 @@ color: rgb(130, 109, 109);
 color: rgb(130, 109, 109);
 width: 130px;
 text-align: center;
+}
+.bean {
+    position: absolute;
+top: 435px;
+left: 715px;
+
+}
+.bean2 {
+position: absolute;
+top: 435px;
+left: 1155px;
+}
+.bean3 {
+position: absolute;
+top: 435px;
+left: 935px;
+}
+.price, .price3{
+    position: absolute;
+    top: 307px;
+}
+.price2 {
+    position: absolute;
+    top: 290px;
+}
+.smoke-img, .gold-img, .silver-img{
+    position: absolute;
+    top: 360px;
+}
+.smoke-img {
+position: absolute;
+left: 710px;
+}
+.gold-img {
+position: absolute;
+left: 930px;
+}
+.silver-img{
+position: absolute;
+left: 1150px;
+}
+.description, .description2, .description3{
+    position: absolute;
+    top: 580px;
+}
+.title, .title2, .title3{
+    position: absolute;
+    top: 515px;;
+}
+.cup-img, .cup-img2, .cup-img3{
+    position: absolute;
+    top: 420px;
 }
