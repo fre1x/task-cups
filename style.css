@@ -106,54 +106,54 @@ width: 130px;
 text-align: center;
 }
 .bean {
-    position: absolute;
-top: 435px;
-left: 715px;
+position: relative;
+top: -50px;
+left: -8px;
 
 }
 .bean2 {
-position: absolute;
-top: 435px;
-left: 1155px;
+position: relative;
+top: -50px;
+left: -8px;
 }
 .bean3 {
-position: absolute;
-top: 435px;
-left: 935px;
+  position: relative;
+top: -50px;
+left: -8px;
 }
 .price, .price3{
-    position: absolute;
-    top: 307px;
+    position: relative;
+    top: -20px;
 }
 .price2 {
-    position: absolute;
-    top: 290px;
+   position: relative;
+    top: -40px;
 }
 .smoke-img, .gold-img, .silver-img{
-    position: absolute;
-    top: 360px;
+    position: relative;
+    top: -10px;
 }
 .smoke-img {
-position: absolute;
-left: 710px;
+position: relative;
+left: -5px;
 }
 .gold-img {
-position: absolute;
-left: 930px;
+position: relative;
+left: -5px;
 }
 .silver-img{
-position: absolute;
-left: 1150px;
+position: relative;
+left: -5px;
 }
 .description, .description2, .description3{
-    position: absolute;
-    top: 580px;
+    position: relative;
+    top: 10px;
 }
 .title, .title2, .title3{
-    position: absolute;
-    top: 515px;;
+   position: relative;
+    top: -5px;;
 }
 .cup-img, .cup-img2, .cup-img3{
-    position: absolute;
-    top: 420px;
+    position: relative;
+    top: 10px;
 }
